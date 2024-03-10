@@ -12,3 +12,11 @@ A brief intro to neural networks. The spiral regression problem
 
 ## 7 [Multiclass CLassification](7_Multi_class_classification_with_MNIST.ipynb)
 This notebook covers building a deep learning model to identify 10 classes of digit images from the MNIST dataset. This classification is possible using the softmax activation function.
+
+## 8 [Intro to Fairness](8_intro_to_fairness.ipynb)
+This notebook covers how to spot bias in ml and correct them. 
+other noteable functions
+- plot confusion matrix
+- plot data with facet dive
+- plot statistics of data with Feature Statistics generator
+  
