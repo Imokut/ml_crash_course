@@ -20,3 +20,6 @@ other noteable functions
 - plot data with facet dive
 - plot statistics of data with Feature Statistics generator
   
+## Notebook hack
+- #@title - to add title
+- feature = 'age' #@param ["", "hours_per_week", "fnlwgt", "gender", "capital_gain / capital_loss", "age"] {allow-input: false} to add parameters
